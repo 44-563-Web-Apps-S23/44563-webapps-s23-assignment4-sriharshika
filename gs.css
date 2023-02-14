@@ -1,0 +1,30 @@
+.speech
+{
+    color:black;
+    font-style: Times New Roman;
+    font-size: 20px;
+}
+.direction
+{
+    color:darkslategray;
+    font-style:Cambria;
+    font-size:20px;
+    background-color:deeppink;
+}
+.direction:hover 
+{
+    color:black;
+    background-color: lemonchiffon;
+}
+.LUKE
+{
+    background-color:cornflowerblue;
+    font-style: italic;
+    font-size: 30px;
+}
+.REVENUE
+{
+    background-color:blueviolet;
+    font-style: italic;
+    font-size: 30px;
+}
