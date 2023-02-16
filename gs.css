@@ -71,7 +71,27 @@ tr:nth-child(odd) {
     box-shadow:10px 10px 5px #bdc7bd;
     font-size: 15px;
     padding: 3px;
-}  
+}
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  li a:hover{
+    background-color: aqua;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+  }  
 
 
 
